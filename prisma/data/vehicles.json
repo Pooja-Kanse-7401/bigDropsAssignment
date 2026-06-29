@@ -1,0 +1,6482 @@
+[
+  {
+    "year": 2010,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2010,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2010,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2010,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2010,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2010,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2010,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2010,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2010,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2010,
+    "make": "Honda",
+    "model": "Odyssey"
+  },
+  {
+    "year": 2010,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2010,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2010,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2010,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2010,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2010,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2010,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2010,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2010,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2010,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2010,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2010,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2010,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2010,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2010,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Liberty"
+  },
+  {
+    "year": 2010,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2010,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2010,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2010,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "WRX"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2010,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2010,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2010,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2010,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2010,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "GLK"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "ML-Class"
+  },
+  {
+    "year": 2010,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2010,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2010,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2010,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2010,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "IS 250"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "LX 570"
+  },
+  {
+    "year": 2011,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2011,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2011,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2011,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2011,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2011,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2011,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2011,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2011,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2011,
+    "make": "Honda",
+    "model": "Odyssey"
+  },
+  {
+    "year": 2011,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2011,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2011,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2011,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2011,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2011,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2011,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2011,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2011,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2011,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2011,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2011,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2011,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2011,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2011,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Liberty"
+  },
+  {
+    "year": 2011,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2011,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2011,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2011,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "WRX"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2011,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2011,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2011,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2011,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2011,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "GLK"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "ML-Class"
+  },
+  {
+    "year": 2011,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2011,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2011,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2011,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2011,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "IS 250"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "LX 570"
+  },
+  {
+    "year": 2012,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2012,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2012,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2012,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2012,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2012,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2012,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2012,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2012,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2012,
+    "make": "Honda",
+    "model": "Odyssey"
+  },
+  {
+    "year": 2012,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2012,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2012,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2012,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2012,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2012,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2012,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2012,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2012,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2012,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Liberty"
+  },
+  {
+    "year": 2012,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2012,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2012,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2012,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "WRX"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2012,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2012,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2012,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2012,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2012,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "GLK"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "ML-Class"
+  },
+  {
+    "year": 2012,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2012,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2012,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2012,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2012,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2012,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "IS 250"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "LX 570"
+  },
+  {
+    "year": 2013,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2013,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2013,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2013,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2013,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2013,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2013,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2013,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2013,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2013,
+    "make": "Honda",
+    "model": "Odyssey"
+  },
+  {
+    "year": 2013,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2013,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2013,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2013,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2013,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2013,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2013,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2013,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2013,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2013,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Liberty"
+  },
+  {
+    "year": 2013,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2013,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2013,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2013,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2013,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2013,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2013,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2013,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2013,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "GLK"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "ML-Class"
+  },
+  {
+    "year": 2013,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2013,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2013,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2013,
+    "make": "Dodge",
+    "model": "Dart"
+  },
+  {
+    "year": 2013,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2013,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "IS 250"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "LX 570"
+  },
+  {
+    "year": 2014,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2014,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2014,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2014,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2014,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2014,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2014,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2014,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2014,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2014,
+    "make": "Honda",
+    "model": "Odyssey"
+  },
+  {
+    "year": 2014,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2014,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2014,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2014,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2014,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2014,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2014,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2014,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2014,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2014,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Liberty"
+  },
+  {
+    "year": 2014,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2014,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2014,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2014,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2014,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2014,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2014,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2014,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2014,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2014,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2014,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2014,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2014,
+    "make": "Dodge",
+    "model": "Dart"
+  },
+  {
+    "year": 2014,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2014,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "IS 250"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "LX 570"
+  },
+  {
+    "year": 2015,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2015,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2015,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2015,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2015,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2015,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2015,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2015,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2015,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2015,
+    "make": "Honda",
+    "model": "Odyssey"
+  },
+  {
+    "year": 2015,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2015,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2015,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2015,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2015,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2015,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2015,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2015,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2015,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2015,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2015,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2015,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2015,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2015,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2015,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2015,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2015,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2015,
+    "make": "Dodge",
+    "model": "Dart"
+  },
+  {
+    "year": 2015,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2015,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2015,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "NX 200t"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2016,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2016,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2016,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2016,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2016,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2016,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2016,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2016,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2016,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2016,
+    "make": "Honda",
+    "model": "HR-V"
+  },
+  {
+    "year": 2016,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2016,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2016,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2016,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2016,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2016,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2016,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2016,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2016,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2016,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2016,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2016,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2016,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2016,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2016,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2016,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2016,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2016,
+    "make": "Dodge",
+    "model": "Dart"
+  },
+  {
+    "year": 2016,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2016,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2016,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "NX 200t"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2017,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2017,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2017,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2017,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2017,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2017,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2017,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2017,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2017,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2017,
+    "make": "Honda",
+    "model": "HR-V"
+  },
+  {
+    "year": 2017,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2017,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2017,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2017,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2017,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2017,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2017,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2017,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2017,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2017,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2017,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2017,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2017,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2017,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Beetle"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2017,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2017,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2017,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2017,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2017,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2017,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2017,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2017,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "NX 200t"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2018,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2018,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2018,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2018,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2018,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2018,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2018,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2018,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2018,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2018,
+    "make": "Honda",
+    "model": "HR-V"
+  },
+  {
+    "year": 2018,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2018,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2018,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2018,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2018,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2018,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2018,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2018,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2018,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2018,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Kona"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2018,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2018,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2018,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2018,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "year": 2018,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2018,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2018,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2018,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2018,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2018,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2018,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2018,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2018,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2018,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2018,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2018,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2018,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "NX 200t"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "GX 460"
+  },
+  {
+    "year": 2019,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2019,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2019,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2019,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2019,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2019,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2019,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2019,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2019,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2019,
+    "make": "Honda",
+    "model": "Passport"
+  },
+  {
+    "year": 2019,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2019,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2019,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2019,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2019,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2019,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2019,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2019,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2019,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2019,
+    "make": "Chevrolet",
+    "model": "Blazer"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Kona"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2019,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2019,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2019,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2019,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Ascent"
+  },
+  {
+    "year": 2019,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2019,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2019,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2019,
+    "make": "Mazda",
+    "model": "Mazda6"
+  },
+  {
+    "year": 2019,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2019,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2019,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2019,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2019,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2019,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2019,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2019,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2019,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "NX 300"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "UX 200"
+  },
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2020,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2020,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2020,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2020,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2020,
+    "make": "Honda",
+    "model": "Passport"
+  },
+  {
+    "year": 2020,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2020,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2020,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2020,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2020,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Blazer"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Palisade"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "K5"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Telluride"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Gladiator"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2020,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2020,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2020,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2020,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Ascent"
+  },
+  {
+    "year": 2020,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2020,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2020,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2020,
+    "make": "Mazda",
+    "model": "CX-30"
+  },
+  {
+    "year": 2020,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Grand Caravan"
+  },
+  {
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "NX 300"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "UX 200"
+  },
+  {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2021,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2021,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2021,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2021,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2021,
+    "make": "Honda",
+    "model": "Passport"
+  },
+  {
+    "year": 2021,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2021,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2021,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2021,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2021,
+    "make": "Ford",
+    "model": "Bronco"
+  },
+  {
+    "year": 2021,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2021,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2021,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2021,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2021,
+    "make": "Chevrolet",
+    "model": "Blazer"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Palisade"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "K5"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Telluride"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Gladiator"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2021,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2021,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2021,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2021,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Ascent"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "CX-30"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2021,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2021,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2021,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2021,
+    "make": "Dodge",
+    "model": "Hornet"
+  },
+  {
+    "year": 2021,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2021,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2021,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2021,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2021,
+    "make": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "NX 300"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "UX 200"
+  },
+  {
+    "year": 2022,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2022,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2022,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2022,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2022,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2022,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2022,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2022,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2022,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2022,
+    "make": "Honda",
+    "model": "Passport"
+  },
+  {
+    "year": 2022,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2022,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2022,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2022,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2022,
+    "make": "Ford",
+    "model": "Bronco"
+  },
+  {
+    "year": 2022,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2022,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2022,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2022,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2022,
+    "make": "Chevrolet",
+    "model": "Blazer"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Palisade"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "K5"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Telluride"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Gladiator"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2022,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2022,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2022,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2022,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Ascent"
+  },
+  {
+    "year": 2022,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2022,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2022,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2022,
+    "make": "Mazda",
+    "model": "CX-30"
+  },
+  {
+    "year": 2022,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Taos"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "ID.4"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2022,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2022,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2022,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2022,
+    "make": "Dodge",
+    "model": "Hornet"
+  },
+  {
+    "year": 2022,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2022,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2022,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2022,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2022,
+    "make": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "NX 300"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "UX 200"
+  },
+  {
+    "year": 2023,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2023,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2023,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2023,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2023,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2023,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2023,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2023,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2023,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2023,
+    "make": "Honda",
+    "model": "Passport"
+  },
+  {
+    "year": 2023,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2023,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2023,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2023,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2023,
+    "make": "Ford",
+    "model": "Bronco"
+  },
+  {
+    "year": 2023,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2023,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2023,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2023,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2023,
+    "make": "Chevrolet",
+    "model": "Blazer"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Palisade"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "K5"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Telluride"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Gladiator"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2023,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2023,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2023,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2023,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Ascent"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "CX-30"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "Taos"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "ID.4"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2023,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2023,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2023,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2023,
+    "make": "Dodge",
+    "model": "Hornet"
+  },
+  {
+    "year": 2023,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2023,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2023,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2023,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2023,
+    "make": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "NX 300"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "UX 200"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Passport"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "F-150"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Bronco"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Silverado 1500"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Blazer"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Palisade"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "K5"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Telluride"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Gladiator"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "year": 2024,
+    "make": "RAM",
+    "model": "1500"
+  },
+  {
+    "year": 2024,
+    "make": "RAM",
+    "model": "2500"
+  },
+  {
+    "year": 2024,
+    "make": "RAM",
+    "model": "3500"
+  },
+  {
+    "year": 2024,
+    "make": "RAM",
+    "model": "ProMaster"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 1500"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Canyon"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Ascent"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "CX-5"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "Mazda3"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "CX-9"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "CX-30"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "Taos"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "ID.4"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "year": 2024,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "year": 2024,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "year": 2024,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "year": 2024,
+    "make": "Dodge",
+    "model": "Hornet"
+  },
+  {
+    "year": 2024,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "year": 2024,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "year": 2024,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "year": 2024,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "year": 2024,
+    "make": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "RX 350"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "ES 350"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "NX 300"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "IS 300"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "UX 200"
+  }
+]

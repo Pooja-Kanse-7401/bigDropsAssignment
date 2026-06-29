@@ -1,0 +1,31 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Vehicle {
+  id    Int    @id @default(autoincrement())
+  year  Int
+  make  String @db.VarChar(50)
+  model String @db.VarChar(50)
+
+  @@unique([year, make, model])
+  @@index([year])
+  @@index([year, make])
+}
+
+model Lead {
+  id        Int      @id @default(autoincrement())
+  firstName String   @db.VarChar(100)
+  lastName  String   @db.VarChar(100)
+  email     String   @db.VarChar(255)
+  phone     String   @db.VarChar(20)
+  zipCode   String   @db.VarChar(10)
+  carYear   Int
+  carMake   String   @db.VarChar(50)
+  carModel  String   @db.VarChar(50)
+  createdAt DateTime @default(now())
+}
